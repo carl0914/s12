@@ -1,0 +1,41 @@
+.nav-link{
+	color: whitesmoke;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+}	
+
+h1{
+	font-size: 3rem;
+}
+
+.navbar{
+	background-color:  #015761;
+}
+#intro{
+	background-color: #015761;
+}
+#container{
+	border-style: solid;
+	border-color: #56be25;
+}
+
+#yellowtext{
+	color: yellow;
+}
+#whitetext{
+	color: white;
+}
+
+#imagecontainer{
+	background-color: #bcbebd;
+}
+#aboutme{
+	color: #015761;
+	font-size: 3rem;
+	font: Roboto bold;
+}
+#about{
+	background-color: #f0ecf4;
+}
