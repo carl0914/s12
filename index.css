@@ -2,24 +2,23 @@
 	color: whitesmoke;
 }
 
-body{
+*{
 	font-family: 'Roboto', sans-serif;
 }	
 
 h1{
-	font-size: 3rem;
+	font-size: 2rem;
 }
-
+#landing{
+	background: url(https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
 .navbar{
 	background-color:  #015761;
 }
 #intro{
-	background-color: #015761;
+	background: url(https://static.vecteezy.com/system/resources/previews/001/335/135/large_2x/abstract-dynamic-blue-background-free-vector.jpg);
 }
-#container{
-	border-style: solid;
-	border-color: #56be25;
-}
+
 
 #yellowtext{
 	color: yellow;
@@ -28,14 +27,32 @@ h1{
 	color: white;
 }
 
-#imagecontainer{
-	background-color: #bcbebd;
+#greytext{
+	color: #24db24;
 }
+
 #aboutme{
-	color: #015761;
+	color: #08fdd8;
 	font-size: 3rem;
-	font: Roboto bold;
-}
+	}
 #about{
-	background-color: #f0ecf4;
+	background: url(https://wallpapercave.com/wp/wp3077568.jpg);
+}
+
+.fab{
+	font-size: 2rem;
+	color: white;	
+}
+
+#image{
+	border-style: solid;
+	border-width: 3px;
+	border-color: #24db24;;
+}
+#aboutcontainer{
+background-color: #f0ecf4;
+}
+
+#skills{
+	background-color: black;
 }
